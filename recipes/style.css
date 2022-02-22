@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(202, 193, 143, 0.8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+ul {
+    font-size: 25px;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.plate-photo {
+    width: 40%;
+    margin: auto;
+    display: block;
+}
